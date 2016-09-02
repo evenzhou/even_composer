@@ -1,0 +1,15 @@
+{
+  "name": "evenzhou/study_composer",
+  "description": "study composer",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "even",
+      "email": "807890657@qq.com"
+    }
+  ],
+  "require": {
+    "protobuf-php/protobuf": "0.1.x-dev"
+  }
+}

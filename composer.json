@@ -16,7 +16,6 @@
   },
   "autoload": {
     "classmap": [
-      "src/",
       "lib/",
       "helper/",
       "MyClass.php"

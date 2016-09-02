@@ -2,7 +2,7 @@
   "name": "evenzhou/study_composer",
   "description": "study composer",
   "license": "proprietary",
-  "prefer-stable" : true,
+  //"prefer-stable" : true,
   "authors": [
     {
       "name": "even",
@@ -10,7 +10,7 @@
     }
   ],
   "require": {
-    "protobuf-php/protobuf": "0.1.x-dev"
+    //"protobuf-php/protobuf": "~0.1.x-dev"
   },
   "extra": {
     "branch-alias": {

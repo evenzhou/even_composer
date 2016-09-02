@@ -1,7 +1,6 @@
 {
   "name": "evenzhou/study_composer",
   "description": "study composer",
-  "minimum-stability": "dev",
   "license": "proprietary",
   "authors": [
     {

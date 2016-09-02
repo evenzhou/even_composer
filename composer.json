@@ -9,9 +9,7 @@
       "email": "807890657@qq.com"
     }
   ],
-  "require": {
-    //"protobuf-php/protobuf": "~0.1.x-dev"
-  },
+
   "extra": {
     "branch-alias": {
       "dev-master": "1.0.x-dev"

@@ -15,13 +15,9 @@
     }
   },
   "autoload": {
-/*    "classmap": [
-      "lib/",
-      "helper/",
-      "MyClass.php"
-    ],*/
     "psr-4": {
       "Even\\":"./"
     }
   }
 }
+

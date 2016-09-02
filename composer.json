@@ -1,7 +1,8 @@
 {
-  "name": "evenzhou/studyComposer",
+  "name": "evenzhou/study_composer",
   "description": "study composer",
   "license": "proprietary",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "even",

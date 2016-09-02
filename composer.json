@@ -2,7 +2,7 @@
   "name": "evenzhou/study_composer",
   "description": "study composer",
   "license": "proprietary",
-  //"prefer-stable" : true,
+  "prefer-stable" : true,
   "authors": [
     {
       "name": "even",

@@ -2,17 +2,24 @@
   "name": "evenzhou/study_composer",
   "description": "study composer",
   "license": "proprietary",
-  "prefer-stable" : true,
+  "prefer-stable": true,
   "authors": [
     {
       "name": "even",
       "email": "807890657@qq.com"
     }
   ],
-
   "extra": {
     "branch-alias": {
       "dev-master": "1.0.x-dev"
     }
+  },
+  "autoload": {
+    "classmap": [
+      "src/",
+      "lib/",
+      "helper/",
+      "MyClass.php"
+    ]
   }
 }

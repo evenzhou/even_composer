@@ -1,5 +1,5 @@
 <?php
-
+namespace Even\helper;
 /**
  * 简述
  *

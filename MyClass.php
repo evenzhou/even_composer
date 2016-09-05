@@ -1,5 +1,5 @@
 <?php
-
+namespace Even;
 /**
  * 简述
  *
